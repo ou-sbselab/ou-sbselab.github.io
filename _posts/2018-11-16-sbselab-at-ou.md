@@ -1,8 +1,9 @@
 ---
 layout:     post
-title:      Announcing Version 2.0
-date:       2015-07-11
-summary:    Now, Pixyll is lighter weight and more customizable than before.
+title:      recent news
+date:       2018-11-16
+pinned:     true
+summary:    
 categories: jekyll pixyll
 ---
 
