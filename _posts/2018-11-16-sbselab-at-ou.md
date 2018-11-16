@@ -7,7 +7,11 @@ summary:
 categories: news
 ---
 
-this is some normal text
+#### Active projects
+
+##### Cognitive Assisted Living (CAL)
+
+##### Search-Based Software Engineering (SBSE)
 
 #### Recent publications
 * K. M. Bowers, R. H. Hariri, and Katey A. Price, "3CAP: Categorizing the Cognitive Capabilities of Alzheimer's Patients in a Smart Home Environment," in Proceedings of the 4th ACM SIGSOFT International Workshop on NLP for Software Engineering, 2018.

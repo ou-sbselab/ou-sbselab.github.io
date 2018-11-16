@@ -8,6 +8,7 @@ url:         "http://ou-sbselab.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
+ - camps.md
  - contact.html
 
 logo:        "logo.png"
